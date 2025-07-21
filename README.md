@@ -14,3 +14,5 @@ B = – · · ·
 SOS = · · · – – – · · ·
 
 Morse code was widely used in maritime and military communications and is still used today in aviation, amateur radio, and emergency signaling due to its simplicity and effectiveness over long distances.
+
+
